@@ -1,0 +1,18 @@
+{
+  "name": "node-db-test",
+  "version": "1.0.0",
+  "description": "Stress-test the database cluster pooling, startup and shutdown.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mike@silverorange.com",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "pg": "^6.1.5",
+    "sequelize": "^3.30.4"
+  }
+}
