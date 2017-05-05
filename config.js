@@ -1,7 +1,7 @@
 module.exports = {
   database: {
     name: 'NodeTest',
-    host: 'vmcaravmcare',
+    host: 'vmcaravmcara',
     user: 'nodetest',
     dialect: 'postgres',
   },
